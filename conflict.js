@@ -1,2 +1,2 @@
 console.log('conflict.js file')
-console.log('update 1')
+console.log('update 2')
